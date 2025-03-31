@@ -1,4 +1,4 @@
-# Ignore directories
+# Ignore
 __pycache__/
 autres/
 env/
@@ -9,6 +9,7 @@ view/__pycache__/
 alembic.ini
 alembic/
 .env
+main_notebook.ipynb
 
 # all .py files
 !.py
