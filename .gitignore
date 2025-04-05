@@ -9,7 +9,6 @@ view/__pycache__/
 alembic.ini
 alembic/
 .env
-main_notebook.ipynb
 
 # all .py files
 !.py
